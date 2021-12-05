@@ -10,3 +10,4 @@ dependencies:
   - pymongo
   - scikit-learn
   - matplotlib
+  - requests
