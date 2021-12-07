@@ -4,5 +4,8 @@
 ### Create Conda environment:
 > $ conda env create -f environment.yml 
 
-### For active development:  
+### For active development:
 > $ conda activate mlexps
+
+## Req. Running Services:
+Docker, MongoDB, CoreNLP Server

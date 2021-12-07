@@ -1,4 +1,6 @@
 
 *.jar
 *.csv
+*.pyc
+/src/algorithms/__pycache__
 /stanford-corenlp-4.2.2
