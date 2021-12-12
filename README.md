@@ -11,7 +11,7 @@
 MongoDB on Docker
 ```
 docker pull mongo  
-docker run -d -v [PWD]:/home \ 
+docker run -d -v $(pwd):/home \ 
 -p 27017-27019:27017-27019 \
 --name mongodb mongo:latest \ 
 docker exec -it mongodb bash
