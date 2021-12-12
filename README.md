@@ -7,5 +7,5 @@
 ### For active development:
 > $ conda activate mlexps
 
-## Req. Running Services:
-Docker, MongoDB, CoreNLP Server
+## Running Services:
+Docker, MongoDB, CoreNLPServer
